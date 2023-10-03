@@ -2,6 +2,7 @@ The program should load images from the InputFile1 and InputFile2 graphic files,
 
 
 Examples of input files:
+'\n'
 
 ![1](https://github.com/fewHoursLater/Python/assets/84395151/ed464375-a4cb-49d8-a3da-9d40680bcdd3)
 ![2](https://github.com/fewHoursLater/Python/assets/84395151/61dd0d48-abb3-4528-9f04-1847c490a1b9)
